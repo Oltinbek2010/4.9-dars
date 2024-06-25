@@ -404,12 +404,73 @@
 
 // 14-masala
 
-function startsWith(text, word) {
-    return text.startsWith(word);
-}
+// function startsWith(text, word) {
+//     return text.startsWith(word);
+// }
 
-let text = "Men oltinbekman";
-let soz = "Men";
+// let text = "Men oltinbekman";
+// let soz = "Men";
 
-console.log(startsWith(text, soz));
+// console.log(startsWith(text, soz));
 
+// 15-masala
+
+// function customSubstr(text, start, length) {
+//     return text.substr(start, length);
+// }
+
+// const text1 = 'Salom mening ismim Oltinbek!';
+// const start1 = 7;
+// const length1 = 5;
+// const result1 = customSubstr(text1, start1, length1);
+// console.log(result1);
+
+// 16-masala
+
+// function customSubstring(text, start, end) {
+//     return text.substring(start, end);
+// }
+
+// const text2 = 'Hello, world!';
+// const start2 = 7;
+// const end2 = 12;
+// const result2 = customSubstring(text2, start2, end2);
+// console.log(result2);
+
+
+// 17-masala
+
+// function customToLowerCase(text) {
+//     return text.toLowerCase();
+// }
+
+// const text3 = 'Hello, World!';
+// const result3 = customToLowerCase(text3);
+// console.log(result3);
+
+
+// 18-masala
+
+// function customToUpperCase(text) {
+//     return text.toUpperCase();
+// }
+
+// const text4 = 'Hello, World!';
+// const result4 = customToUpperCase(text4);
+// console.log(result4);
+
+
+// 19-masala
+
+// function customTrim(text) {
+//     return text.trim();
+// }
+
+// const text5 = '   Hello, world!   ';
+// const result5 = customTrim(text5);
+// console.log(result5);
+
+
+// 20-masala
+
+// OTMAGANMIZ!!!
